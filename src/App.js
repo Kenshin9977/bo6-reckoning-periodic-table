@@ -226,7 +226,7 @@ function App() {
               </p>
             </div>
           ) : (
-            <p className="text-slate-500">Élément iconnu...</p>
+            <p className="text-slate-500">Élément inconnu...</p>
           )}
         </div>
       </div>
